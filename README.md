@@ -238,7 +238,7 @@ This method also can use in TelescopeList in same way.
 - TelescopeBuilder: widget to rebuild only the widget that depends on telescope value
 - TelescopeProvider: provide telescopes down the widget tree for easy access
 - Selection API: watch and update selected items in lists efficiently
-- Example: [https://github.com/ali77gh/Telescope/tree/master/example/lib](https://github.com/ali77gh/Telescope/example/lib/08_selective_rebuild_sample)
+- Example: [https://github.com/ali77gh/Telescope/tree/master/example/lib//08_selective_rebuild_sample]
 
 <br>
 
